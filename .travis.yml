@@ -1,0 +1,7 @@
+language: node_js
+sudo: false
+script:
+  - "npm run test"
+matrix:
+  include:
+    - node_js: 'node'
