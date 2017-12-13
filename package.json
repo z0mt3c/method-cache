@@ -1,6 +1,6 @@
 {
   "name": "@z0mt3c/method-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "method-cache",
   "main": "index.js",
   "scripts": {
